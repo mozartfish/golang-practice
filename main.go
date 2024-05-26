@@ -15,4 +15,7 @@ func main() {
 	constants()
 	forConstruct()
 	ifElseConstruct()
+	switchConstruct()
+	arrayConstruct()
+	sliceConstruct()
 }
