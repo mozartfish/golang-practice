@@ -12,4 +12,7 @@ func main() {
 	helloWorld()
 	values()
 	variables()
+	constants()
+	forConstruct()
+	ifElseConstruct()
 }
