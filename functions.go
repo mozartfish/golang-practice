@@ -1,11 +1,13 @@
-package main 
+package main
 
-// Functions are central in Go 
-func plus(a int, b int) {
+import "fmt"
+
+// Functions are central in Go
+func plus(a int, b int) int {
 	return a + b
 }
 
-func plusPLus(a, b, c int) int {
+func plusPlus(a, b, c int) int {
 	return a + b + c
 }
 
@@ -15,6 +17,6 @@ func functionConstruct() {
 	res := plus(1, 2)
 	fmt.Println("1+2=", res)
 
-	res = 
-
+	res = plusPlus(1, 2, 3)
+	fmt.Println("1+2+3=", res)
 }
