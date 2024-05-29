@@ -8,8 +8,8 @@ import "fmt"
 func arrayConstruct() {
 	fmt.Println("ARRAYS")
 
-	// create an array that will hold exactly 5 ints 
-	// the type of elements and length are both part of the arrays type 
+	// create an array that will hold exactly 5 ints
+	// the type of elements and length are both part of the arrays type
 	// by default an array is zero valued e.g. ints are 0s
 	var a [5]int
 	fmt.Println("emp:", a)
@@ -20,7 +20,7 @@ func arrayConstruct() {
 	fmt.Println("get:", a[4])
 	fmt.Println("len:", len(a))
 
-	// declare and initialize array in one line 
+	// declare and initialize array in one line
 	b := [5]int{1, 2, 3, 4, 5}
 	fmt.Println("dcl:", b)
 
@@ -41,7 +41,7 @@ func arrayConstruct() {
 	}
 	fmt.Println("2d: ", twoD)
 
-	// declare and initialize a multi-dimensional array in one line 
+	// declare and initialize a multi-dimensional array in one line
 	twoD = [2][3]int{
 		{1, 2, 3},
 		{1, 2, 3},

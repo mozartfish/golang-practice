@@ -18,4 +18,6 @@ func main() {
 	switchConstruct()
 	arrayConstruct()
 	sliceConstruct()
+	mapConstruct()
+	rangeConstruct()
 }
