@@ -17,8 +17,13 @@ import (
 
 func main() {
 	fmt.Println("This is the main execution function")
+	// Day 1
 	gobyexample.HelloWorld()
 	gobyexample.Values()
 	gobyexample.Variables()
+	// Day 2
+	gobyexample.Constants()
+	gobyexample.ForConstruct()
+	gobyexample.IfElseConstruct()
 
 }

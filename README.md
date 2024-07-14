@@ -5,3 +5,7 @@
 - hello world 
 - values 
 - variables
+## Day 2 
+- constants 
+- for 
+- if/else
