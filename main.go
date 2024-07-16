@@ -25,5 +25,8 @@ func main() {
 	gobyexample.Constants()
 	gobyexample.ForConstruct()
 	gobyexample.IfElseConstruct()
-
+	// Day 3
+	gobyexample.SwitchConstruct()
+	gobyexample.Arrays()
+	gobyexample.Slices()
 }

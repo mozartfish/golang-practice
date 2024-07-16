@@ -9,3 +9,8 @@
 - constants 
 - for 
 - if/else
+## Day 3 
+- switch 
+- arrays 
+- slices 
+
