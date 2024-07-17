@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-// switch statements express conditionals across many branches
+// Switch statements express conditionals across many branches
 // default is optional for switch statements in golang
 func SwitchConstruct() {
 	fmt.Println("SWITCH")

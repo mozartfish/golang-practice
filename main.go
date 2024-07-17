@@ -29,4 +29,9 @@ func main() {
 	gobyexample.SwitchConstruct()
 	gobyexample.Arrays()
 	gobyexample.Slices()
+	// Day 4 
+	gobyexample.MapConstruct()
+	gobyexample.Range()
+	gobyexample.Functions()
+	// Day 5
 }

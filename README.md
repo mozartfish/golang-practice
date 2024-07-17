@@ -12,5 +12,12 @@
 ## Day 3 
 - switch 
 - arrays 
-- slices 
-
+- slices
+## Day 4
+- maps 
+- range 
+- functions 
+## Day 5 
+- multiple return values 
+- variadic functions 
+- closures 
