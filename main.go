@@ -33,4 +33,9 @@ func main() {
 	gobyexample.MapConstruct()
 	gobyexample.Range()
 	gobyexample.Functions()
+	// Day 5 
+	gobyexample.MultipleReturnValues()
+	gobyexample.VariadicFunctions()
+	gobyexample.Closures()
+	
 }

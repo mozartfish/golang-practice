@@ -21,3 +21,7 @@
 - multiple return values 
 - variadic functions 
 - closures 
+## Day 6 
+- recursion 
+- pointers 
+- strings and runes 
