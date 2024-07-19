@@ -29,13 +29,17 @@ func main() {
 	gobyexample.SwitchConstruct()
 	gobyexample.Arrays()
 	gobyexample.Slices()
-	// Day 4 
+	// Day 4
 	gobyexample.MapConstruct()
 	gobyexample.Range()
 	gobyexample.Functions()
-	// Day 5 
+	// Day 5
 	gobyexample.MultipleReturnValues()
 	gobyexample.VariadicFunctions()
 	gobyexample.Closures()
-	
+	// Day 6
+	gobyexample.Recursion()
+	gobyexample.Pointers()
+	gobyexample.StringsRunes()
+
 }
