@@ -25,3 +25,28 @@
 - recursion 
 - pointers 
 - strings and runes 
+## Day 7
+- structs 
+- methods 
+- interfaces 
+## Day 8 
+- enums 
+- struct embedding 
+- generics 
+## Day 9 
+- errors 
+- custom errors 
+- goroutines 
+## Day 10 
+- channels 
+- channel buffering 
+- channel synchronization 
+## Day 11 
+- channel directions 
+- select 
+- timeouts
+- non-blocking channel operations 
+## Day 12 
+- closing channels 
+- range over channels 
+- timers 

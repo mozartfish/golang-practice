@@ -41,5 +41,9 @@ func main() {
 	gobyexample.Recursion()
 	gobyexample.Pointers()
 	gobyexample.StringsRunes()
+	// Day 7 
+	gobyexample.Structs()
+	gobyexample.Methods()
+	gobyexample.Interfaces()
 
 }
