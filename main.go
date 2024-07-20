@@ -45,5 +45,12 @@ func main() {
 	gobyexample.Structs()
 	gobyexample.Methods()
 	gobyexample.Interfaces()
-
+	// Day 8 
+	gobyexample.Enums()
+	gobyexample.StructEmbedding()
+	gobyexample.Generics()
+	// Day 9 
+	// gobyexample.Errors()
+	// gobyexample.CustomErrors()
+	// gobyExample.Goroutines()
 }
