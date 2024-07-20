@@ -47,6 +47,7 @@ func measure(g geometry) {
 	fmt.Println(g.perim())
 }
 
+// Interfaces are named collections of method signatures
 func Interfaces() {
 	fmt.Println("INTERFACES")
 
