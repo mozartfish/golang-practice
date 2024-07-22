@@ -50,7 +50,7 @@ func main() {
 	gobyexample.StructEmbedding()
 	gobyexample.Generics()
 	// Day 9 
-	// gobyexample.Errors()
-	// gobyexample.CustomErrors()
-	// gobyExample.Goroutines()
+	gobyexample.Errors()
+	gobyexample.CustomErrors()
+	gobyexample.Goroutines()
 }
