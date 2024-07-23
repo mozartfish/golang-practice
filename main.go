@@ -53,4 +53,13 @@ func main() {
 	gobyexample.Errors()
 	gobyexample.CustomErrors()
 	gobyexample.Goroutines()
+	// Day 10 
+	gobyexample.Channels()
+	gobyexample.ChannelBuffering()
+	gobyexample.ChannelSynchronization()
+	// Day 11
+	// gobyexample.ChannelDirections()
+	// gobyexample.SelectConstruct() 
+	// gobyexample.Timeouts()
+
 }
